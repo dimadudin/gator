@@ -1,3 +1,3 @@
-# gator
+# chadder
 
-A message aggregator for VK, telegram and Gmail
+THE best websocket chatting server you could EVER want!
